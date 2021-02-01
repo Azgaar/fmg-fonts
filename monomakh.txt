@@ -1,4 +1,0 @@
-@font-face {
-    font-family: Monomakh;
-    src: url("monomakh_unicode/MonomakhUnicode.otf") format("opentype");
-}
